@@ -1,322 +1,215 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 http://bit.ly/TestadorIPTVVideoApresentacao
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS WORLD | SD
 http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS1 | SD
 http://112.175.138.137:1935/1tv/_definst_/1tv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS2 | SD
 http://112.175.138.137:1935/2tv/_definst_/2tv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS W | SD
 http://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS 24 | SD
 http://112.175.138.137:1935/news24/_definst_/news24_800.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS N LIFE | SD
 http://112.175.138.137:1935/kbsn_prime/_definst_/kbsn_prime_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS DRAMA | SD
 http://112.175.138.137:1935/kbsn_drama/_definst_/kbsn_drama_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS SPORTS | SD
 http://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS Joy | SD
 http://112.175.138.137:1935/kbsn_joy/_definst_/kbsn_joy_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS Kids | SD
 http://112.175.138.137:1935/kbsn_kids/_definst_/kbsn_kids_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", CBS | SD
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KTV | SD
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KCTV | SD
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", SBS | HD
 http://123.108.164.71/etv2/phd847/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", MTN | SD
 http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", TBC SBS | SD
 http://221.157.125.232:1935/live/psike/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", G1 SBS | SD
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBC SBS | SD
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", UBC SBS | SD
 http://media.tbc.co.kr:1935/live/UBCstream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", TV CHOSUN | HD
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", ETN  | SD
 http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS WORLD | SD
 http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS1 | SD
 http://112.175.138.137:1935/1tv/_definst_/1tv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS2 | SD
 http://112.175.138.137:1935/2tv/_definst_/2tv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", KBS W | SD
 http://112.175.138.137:1935/kbsn_wtv/_definst_/kbsn_wtv_5.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS e | SD
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", EBS Kids | SD
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", YTN Science | SD
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="Canales Koreanos", YTN | SD
 http://slive.ytn.co.kr:1935/ytn/ylivehd_20140419_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL", ~ 24/7 ~
 http://stream.dubstep.fm:80/256mp3
-
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7", Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-
 #EXTINF:-1 tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7", Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7", Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7", Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7", Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7", Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7", The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7", The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7", Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7", Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7", Xmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL", ~ 24/7 ~
 http://stream.dubstep.fm:80/256mp3
-
 #EXTINF:-1 tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7", Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-
 #EXTINF:-1 tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7", Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7", Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7", Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7", Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7", Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7", Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7", The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7", The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7", Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7", Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7", Xmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTgpvCL.png" group-title="MUSICA", City Radio TV | SD
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Alternative | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Brits + Hits | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Dance | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Hip-Hop And R&B | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Hit | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Indie | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Metal | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop & Country | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop Hits | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice R&B Soul | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rap | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rap 2K | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Rock | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Today | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice 90 | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Throwback Jamz | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Y2K | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Mexicana | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Musica Urbana | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Pop Latino | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Tropicales | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Teen Beats | HD
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Kidz Only | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice Toddler Tunes | HD
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCdljln.png" group-title="MUSICA", Radio 105 Network | HD
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpsnB4H.png" group-title="MUSICA", Vibee | SD
 http://46.101.21.42:8081/live/live2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA", M2O TV | SD
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/as4ML4s.png" group-title="MUSICA", Heart TV | HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5EbmHYH.png" group-title="MUSICA", Capital TV | SD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSICA", Hit TV | SD
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSICA", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPRJHC6.png" group-title="MUSICA", Virgin Radio TV | SD
 http://wow01.105.net/live/virgin1/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EyU9Bcu.png" group-title="MUSICA", Rock Nacional TV | SD
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite | HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8bLqJM.png" group-title="MUSICA", TVPop | HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICA", Capital TV | SD
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICA", Radio Montecarlo TV | SD
 http://fms.105.net:1935/live/rmc1/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="MUSICA", Radio U | SD
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="MUSICA", California Music Channel | HD
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="MUSICA", Radio Bruno (Italia) | SD
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P2zYCxA.jpg" group-title="MUSICA", Colosal TV (Costa Rica) | SD
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA", Radio Contact Feel Good | HD
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QECto3J.png" group-title="MUSICA", Klipkar TV | SD
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA", Portal FoxMix | HD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8U5Ww24.png" group-title="MUSICA", Gufo Rock Latino | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8?laope
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8U5Ww24.png" group-title="MUSICA", Gufo Retro | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8?laope
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8U5Ww24.png" group-title="MUSICA", Gufo Indie | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?laope
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA", UP Latino |SD
 https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
